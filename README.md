@@ -20,10 +20,10 @@ Day 13 / 50% \
 
 Sastantua / 0% \
 Match-N-Match / 100% \
-BSQ / \
+BSQ / 
 
 Exam00 / 0% \
 Exam01 / 38% \
-Exam02 / 75% \
+Exam02 / 75% 
                 
-Final level: 6.66 \
+Final level: 6.66 
