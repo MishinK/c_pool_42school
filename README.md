@@ -3,8 +3,8 @@
  
  # Piscine C:
  
-Day 00 / 15%
-Day 01 / 30%
+Day 00 / 15% \
+Day 01 / 30% \
 Day 02 / 10%
 Day 03 / 57%
 Day 04 / 42%
