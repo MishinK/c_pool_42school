@@ -16,7 +16,7 @@ Day 09 / 0% \
 Day 10 / 50% \
 Day 11 / 50% \
 Day 12 / 35% \
-Day 13 / 50% \
+Day 13 / 50% 
 
 Sastantua / 0% \
 Match-N-Match / 100% \
